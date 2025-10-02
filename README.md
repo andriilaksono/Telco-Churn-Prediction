@@ -15,6 +15,7 @@ Dataset yang digunakan adalah **Telco Customer Churn Dataset**, yang berisi info
 * Lama berlangganan
 * Biaya bulanan dan total biaya
 * Status churn (Yes/No)
+  
 Sumber dataset:
 Predicting Manufacturing Defects Dataset – Kaggle
 
