@@ -17,7 +17,7 @@ Dataset yang digunakan adalah **Telco Customer Churn Dataset**, yang berisi info
 * Status churn (Yes/No)
   
 Sumber dataset:
-Predicting Manufacturing Defects Dataset – Kaggle
+[Predicting Manufacturing Defects Dataset – Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/predicting-manufacturing-defects-dataset)
 
 ## Alur Project
 
@@ -48,14 +48,11 @@ Predicting Manufacturing Defects Dataset – Kaggle
 ## Deploy
 
 Aplikasi sudah dapat dicoba secara online di sini:
-👉 [Telco Churn Prediction App](https://telco-churn-prediction-andrilaksono.streamlit.app/)
+[Telco Churn Prediction App](https://telco-churn-prediction-andrilaksono.streamlit.app/)
 
-## ✨ Hasil
+## Hasil
 
 * Model terbaik: **Gradient Boosting Classifier**
 * ROC-AUC: 0.84
 * Aplikasi web interaktif berhasil dibuat dan dideploy
 
-## 📌 Portfolio
-
-Proyek ini merupakan bagian dari portfolio saya di bidang **Data Science & Machine Learning**, khususnya terkait **Customer Analytics**.
