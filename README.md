@@ -17,7 +17,7 @@ Dataset yang digunakan adalah **Telco Customer Churn Dataset**, yang berisi info
 * Status churn (Yes/No)
   
 Sumber dataset:
-[Predicting Manufacturing Defects Dataset – Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/predicting-manufacturing-defects-dataset)
+
 
 ## Alur Project
 
